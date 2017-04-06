@@ -1,1 +1,1 @@
-# meerkat_vision
+# meerkat_vision_v0.1
